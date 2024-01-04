@@ -1,0 +1,10 @@
+Employee Name,ID,Gender,Age,Married,Role,Salary,Position,Absences,Projects_Completed,Mean Monthly Hours,Years in the company,Joining_Year,Current_Employ_Rating,Moral,Stress & Burnout Score,Ongoing_Project_Count,Projects_Within_Deadline,Project_Start_Date,Project_Description,Project_Difficulty,Project_Deadline,Manager_ID
+Arjun Sharma,1,Male,25,Bachelor,Frontend,"1,20,000",Junior,4,14,168,3,2020,8,Very Low,5,5,12,11/10/23, Design the user interface and user experience to ensure easy navigation and usage ,High,1/11/22,1
+Aisha Khan,2,Female,24,Bachelor,HR,"1,00,000",Junior,5,11,186,2,2021,9,Low,4,3,10,27/9/2023,Coordinating training sessions for the development team regarding the latest AI technologies and web development practices ,Medium,10/12/23,2
+Rohan Kapoor,3,Male,31,Married,Backend,"2,00,000",Senior,3,43,161,9,2014,6,Very High,1,1,35,20/9/2023,Develop a secure user registration and login system,High,31/9/2023,3
+Siddharth Singh ,4,Male,35,Married,Backend,"2,50,000",Senior,6,67,182,13,2010,10,Very High,3,4,60,14/10/2023,Design and implement database structure for storing and retrieving user data,High,10/11/22,4
+Ananya Desai,5,Female,23,Bachelor,R&D,"1,50,000",Junior,2,4,201,1,2022,10,High,1,3,4,30/9/2023,Conduct research on competitor websites offering productivity tools and analyze their features ,Medium,10/10/23,5
+Neha Sharma,6,Female,25,Married,HR,"1,00,000",Junior,1,12,254,3,2020,10,Neutral,2,2,12,12/10/23,Arranging regular team meetings for progress updates and addressing any challenges faced,Low,19/10/23,2
+Aryan Patel,7,Male,28,Bachelor,Frontend,"1,40,000",Senior,5,32,176,6,2017,8,High,1,1,28,15/10/2023,"Implement the design and features into a functional website, ensuring seamless integration of AI features",Medium,30/10/2023,3
+Rohan Kapoor,3,Male,31,Married,Backend,"2,00,000",Senior,2,41,158,9,2014,5,High,1,0,32,17/8/2023,Develop a secure user registration and login system,High,24/8/2023,3
+Aryan Patel,7,Male,28,Bachelor,Frontend,"1,40,000",Senior,4,30,147,6,2017,9,Very High,2,2,27,9/6/23,"Implement the design and features into a functional website, ensuring seamless integration of AI features",Medium,16/9/2023,3

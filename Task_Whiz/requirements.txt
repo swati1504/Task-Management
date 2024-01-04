@@ -1,0 +1,8 @@
+pandas 
+flask
+pyngrok
+joblib
+openai
+xgboost 
+transformers 
+seaborn 
